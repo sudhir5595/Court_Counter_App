@@ -15,4 +15,4 @@ first app (Count the Score of 2 Teams)
   Increase the score by 1 points
 
 ### RESET 
-  Set the score of both teams to 0
+  Set the score of both teams to 0 points
